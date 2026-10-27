@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Studio AI Agent",
+  "description": "Personal AI-powered YouTube automation agent for channel management, smart uploads, SEO metadata generation, and comment automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
